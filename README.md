@@ -29,7 +29,7 @@ This repository contains concise descriptions and links to full genre pages on o
 | Psybreaks | Breakbeat with a psychedelic twist, incorporating twisted acid lines, intricate drum programming, and mind-bending FX. | [Read more](https://psychill.space/music/genres/psybreaks) |
 | Psydnb | Drum and bass infused with psychedelic elements, delivering fast, intricate breaks layered with trippy atmospheres. | [Read more](https://psychill.space/music/genres/psydnb) |
 | Breakcore | Chaotic, high-BPM breakbeat music with frantic drum programming, aggressive sampling, and a punk-like DIY attitude. | [Read more](https://psychill.space/music/genres/breakcore) |
-| IDM | Intelligent Dance Music—experimental electronic music with complex rhythms, abstract textures, and a cerebral, often psychedelic edge. | [Read more](https://psychill.space/music/genres/idm) |
+| IDM | Intelligent Dance Music - experimental electronic music with complex rhythms, abstract textures, and a cerebral, often psychedelic edge. | [Read more](https://psychill.space/music/genres/idm) |
 | Dub Techno | Deep, atmospheric techno built on dub-influenced chords, heavy reverb, and hypnotic, evolving textures. | [Read more](https://psychill.space/music/genres/dub-techno) |
 | Acid Techno | Raw, driving techno powered by the squelching, resonant sound of the Roland TB-303 bassline synthesizer. | [Read more](https://psychill.space/music/genres/acid-techno) |
 | Hypnotic Techno | Repetitive, loop-based techno that locks into a trance-inducing groove, stripping away melody in favor of pure rhythm and texture. | [Read more](https://psychill.space/music/genres/hypnotic-techno) |
