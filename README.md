@@ -17,6 +17,8 @@ This repository contains concise descriptions and links to full genre pages on o
 
 | Genre | Short Description | Full Page |
 |-------|------------------|-----------|
+| Ambient | Beatless, atmospheric music focused on texture, tone, and space, designed to create immersive sonic environments. | [Read more](https://psychill.space/music/genres/ambient) |
+| Downtempo | Laid-back electronic music with slow, chilled beats and lush atmospheres, perfect for relaxed listening and late-night wind-downs. | [Read more](https://psychill.space/music/genres/downtempo) |
 | Psybient | Ambient music with psychedelic influences, blending downtempo beats and ethereal textures for deep, introspective listening. | [Read more](https://psychill.space/music/genres/psybient) |
 | Chillgressive | A slower, more atmospheric offshoot of progressive trance, emphasizing hypnotic grooves and expansive soundscapes. | [Read more](https://psychill.space/music/genres/chillgressive) |
 | Psydub | Dub production with psychedelic effects and bass-heavy rhythms, often featuring spacious echoes and trippy sound design. | [Read more](https://psychill.space/music/genres/psydub) |
@@ -26,6 +28,7 @@ This repository contains concise descriptions and links to full genre pages on o
 | Glitch Hop | Mid-tempo bass music built on chopped, stuttering beats, intricate sound design, and heavy hip-hop-inspired grooves. | [Read more](https://psychill.space/music/genres/glitch-hop) |
 | Psybreaks | Breakbeat with a psychedelic twist, incorporating twisted acid lines, intricate drum programming, and mind-bending FX. | [Read more](https://psychill.space/music/genres/psybreaks) |
 | Psydnb | Drum and bass infused with psychedelic elements, delivering fast, intricate breaks layered with trippy atmospheres. | [Read more](https://psychill.space/music/genres/psydnb) |
+| Breakcore | Chaotic, high-BPM breakbeat music with frantic drum programming, aggressive sampling, and a punk-like DIY attitude. | [Read more](https://psychill.space/music/genres/breakcore) |
 | IDM | Intelligent Dance Music—experimental electronic music with complex rhythms, abstract textures, and a cerebral, often psychedelic edge. | [Read more](https://psychill.space/music/genres/idm) |
 | Dub Techno | Deep, atmospheric techno built on dub-influenced chords, heavy reverb, and hypnotic, evolving textures. | [Read more](https://psychill.space/music/genres/dub-techno) |
 | Acid Techno | Raw, driving techno powered by the squelching, resonant sound of the Roland TB-303 bassline synthesizer. | [Read more](https://psychill.space/music/genres/acid-techno) |
